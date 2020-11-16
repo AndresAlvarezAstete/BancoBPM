@@ -73,6 +73,8 @@ public class Home_Activity extends AppCompatActivity
 
         clientes.add("Axel");
         clientes.add("Roxana");
+        clientes.add("Betzabe");
+        clientes.add("Matias");
         creditos.add("Credito Hipotecario");
         creditos.add("Credito Automotriz");
 
