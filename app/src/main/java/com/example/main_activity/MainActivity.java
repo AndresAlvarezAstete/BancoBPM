@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity
                 }
                 else
                     {
-
+                        Toast.makeText(view.getContext(), "Debes ingresar un usuario y contraseña validos", Toast.LENGTH_LONG).show();
                     }
             }
         });
